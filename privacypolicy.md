@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <pre>
+ 
 # Privacy Policy
 
 **Last Updated:** January 2026
@@ -173,3 +183,7 @@ We will respond to all inquiries within 30 days.
 ---
 
 © 2026 Food Fight Club. All rights reserved.
+   <!-- Paste your Markdown content here, or convert it to HTML -->
+  </pre>
+</body>
+</html>
